@@ -51,4 +51,7 @@ a {
 a:hover {
   background-color: white;
 }
-
+.description_decouvrez {
+  color: black;
+  font-size: 12px;
+}
