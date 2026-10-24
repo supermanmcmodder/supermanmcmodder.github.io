@@ -21,3 +21,7 @@ body {
   color: grey;
   font-size: 12px;
 }
+.barre {
+  width: 100%;
+  border: 3px solid #000000;
+}
