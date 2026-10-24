@@ -17,3 +17,7 @@ p, h1, h3 {
 body {
   background-color: #ffffff;
 }
+.description {
+  color: grey;
+  font-size: 12px;
+}
