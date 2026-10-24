@@ -21,10 +21,13 @@ body {
   color: grey;
   font-size: 12px;
 }
-.barre {
+.barre_decouvrez {
   width: 80%;
   border: 2px solid #000000;
   border-radius: 10px;
   margin: 0 auto;
   text-align: center;
+}
+decouvrez {
+  margin: 5px;
 }
