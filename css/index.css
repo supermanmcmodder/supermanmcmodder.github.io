@@ -36,16 +36,19 @@ decouvrez {
 }
 a {
   width: 40%;
-  border: 2px dashed grey;
+  border: 2px solid grey;
+  background-color: #d9d9d9;
   border-radius: 10px;
   margin: 0 auto;
   text-align: center;
-  box-shadow: 10px 5px 5px red;
   display: flex;
   justify-content: center;
   flex-wrap: nowrap;
   flex-direction: column;
   align-items: center;
+  transition: 800ms;
 }
-  
+a:hover {
+  background-color: white;
+}
 
